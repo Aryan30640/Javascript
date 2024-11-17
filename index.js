@@ -29,6 +29,29 @@ if(mode === "light") {
 console.log(color);
 
 
+//--
+let year = 24;
+let result = year >= 18 ? "adult" : "not adult"; //easier way of if else
+console.log(result);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
