@@ -5,3 +5,4 @@ if(mod === 0) {
 } else {
     console.log("Odd")
 }
+console.log("exiting with code 0")
